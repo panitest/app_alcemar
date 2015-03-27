@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Demo Phonegap</name>
+    <name>ALCEMAR</name>
 
     <description>
-        Ejemplo de app Phonegap.
+        ALCEMAR.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
